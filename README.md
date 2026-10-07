@@ -1,4 +1,4 @@
-# aplikacje-mobilne
+# Przedmiot: Zaawansowane technologie aplikacji mobilnych
 # Student: Jakub Bonda
 # Email: jb88608@stud.uws.edu.pl
 # Kierunek: Informatyka
