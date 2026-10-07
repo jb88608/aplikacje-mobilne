@@ -1,8 +1,6 @@
 # lab_01
 
-Adres opublikowanej aplikacji:
-
-https://lab-01-a2668.web.app/
+Adres opublikowanej aplikacji: https://lab-01-a2668.web.app/
 
 ## Zrzut ekranu zainstalowanej aplikacji
 
