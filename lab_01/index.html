@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="Moja pierwsza aplikacja PWA">
+    <title>Moja pierwsza PWA</title>
+
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" sizes="196x196" href="icons/favicon-196.png">
+    <link rel="apple-touch-icon" href="icons/apple-icon-180.png">
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <script src="index.js" defer></script>
+  </head>
+
+  <body>
+    <main>
+      <h1>Moja pierwsza PWA</h1>
+
+      <img
+        src="android.png"
+        alt="Logo Androida"
+        width="210"
+        height="250"
+      >
+
+      <p>Aplikacja Progressive Web App działająca również offline.</p>
+
+      <button
+        class="install-button"
+        type="button"
+        hidden
+        aria-label="Zainstaluj aplikację na urządzeniu"
+      >
+        Zainstaluj aplikację
+      </button>
+    </main>
+  </body>
+</html>
