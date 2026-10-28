@@ -53,9 +53,26 @@ body {
     color: #1e2432;
 }
 
+label[for="city-search"] {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 .search:focus {
     background: #ffffff;
     box-shadow: 0 0 0 3px rgba(109, 213, 237, 0.5);
+}
+
+.search:focus-visible {
+  outline: 3px solid #ffbf47;
+  outline-offset: 3px;
 }
 
 .message {
