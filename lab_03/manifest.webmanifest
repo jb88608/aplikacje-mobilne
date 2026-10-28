@@ -1,0 +1,38 @@
+
+{
+  "name": "Aplikacja pogodowa",
+  "short_name": "Pogoda",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3c72",
+  "theme_color": "#1e3c72",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+        "src": "/screenshots/pc_online.png",
+        "sizes": "1366x768",
+        "type": "image/png",
+        "form_factor": "wide",
+        "label": "Aplikacja pogodowa na komputerze"
+    },
+    {
+        "src": "/screenshots/phone.png",
+        "sizes": "390x844",
+        "type": "image/png",
+        "label": "Aplikacja pogodowa na telefonie"
+    }
+    ]
+}
