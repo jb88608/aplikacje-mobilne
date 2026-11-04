@@ -21,4 +21,4 @@ npm run preview
 ![Tryb offline na komputerze](./public/screenshots/pc_offline.png)
 
 ### Telefon
-![Aplikacja na telefonie](./public/screenshots/phone.png)
+![Aplikacja na telefonie](./public/screenshots/phone.jpg)
