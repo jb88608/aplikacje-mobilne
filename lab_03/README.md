@@ -2,6 +2,8 @@
 
 Aplikacja pogodowa korzystająca z API OpenWeatherMap. Wyświetla dane pogodowe dla wybranego miasta i obsługuje tryb offline.
 
+Link do aplikaci: https://lab03-bonda.web.app/
+
 ## Uruchomienie
 
 ```bash
