@@ -1,6 +1,6 @@
 # lab_04 – Pierwsza aplikacja w Ionic React
 
-Link do aplikaci: https://lab04-bonda.web.app/
+Link do aplikacji: https://lab04-bonda.web.app/
 
 ## Uruchomienie
 
