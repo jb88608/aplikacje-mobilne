@@ -188,7 +188,6 @@ const Kalkulator: React.FC = () => {
                         </IonCol>
                     </IonRow>
 
-                    {/* Przycisk równa się */}
                     <IonRow>
                         <IonCol size="3"></IonCol>
                         <IonCol size="6">
